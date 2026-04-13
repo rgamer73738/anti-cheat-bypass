@@ -1,0 +1,19 @@
+{
+  "geode": "5.6.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "rgamer73738.anti_cheat_bypass",
+  "version": "v1.0.0",
+  "name": "Anti-Cheat Bypass",
+  "developer": "rgamer73738",
+  "description": "Bypasses anti-cheat checks. <cg>Auto Safe Mode</c> protects leaderboards when active.",
+  "settings": {
+    "enable-bypass": {
+      "name": "Enable Bypass",
+      "description": "Bypasses anti-cheat. <cr>Progress will NOT be saved while active.</c>",
+      "type": "bool",
+      "default": false
+    }
+  }
+}
